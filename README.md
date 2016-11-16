@@ -1,2 +1,2 @@
 # cfsmodel-data
-To download cfsmodel data usin "wget" through shell programme
+To download cfsmodel data using "wget" through shell programme
